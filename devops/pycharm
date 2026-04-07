@@ -1,0 +1,23 @@
+#dev1-code
+
+def print_hi(name):
+    # Use a breakpoint in the code line below to debug your script.
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+# Press the green button in the gutter to run the script.
+if __name__ == '__main__':
+    print_hi('PyCharm')
+
+
+#dev2-code
+
+from random import randint
+
+# Function to play a number guessing game
+def play():
+    # ... (code omitted for brevity, see linked source)
+    pass 
+
+if __name__ == '__main__':
+    play()
+
