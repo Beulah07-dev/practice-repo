@@ -1,0 +1,17 @@
+#dev1-code
+
+num = int(input("Enter a number: "))
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+
+#dev2-code
+
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+    print(x)
+
+
+
+

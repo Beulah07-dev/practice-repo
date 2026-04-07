@@ -1,0 +1,20 @@
+#dev1-code
+
+// Save this code in a file named Main.java
+public class Main {
+    public static void main(String[] args) {
+        // Output text to the console
+        System.out.println("Hello, World!");
+    }
+}
+
+#dev2-code
+
+public class MathExample {
+    public static void main(String[] args) {
+        int x = 10;
+        int y = 20;
+        int sum = x + y;
+        
+        System.out.println("The sum is: " + sum);
+        // Using built-in Math methods from 
