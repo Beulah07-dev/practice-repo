@@ -1,0 +1,22 @@
+#dev1-code
+
+num = int(input("Enter a number: "))
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+
+#dev2-code
+
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+    print(x)
+
+#dev3-code
+
+my_list = [1, 2, 3]
+my_list.append(4)  # Adds 4 to the end
+print(my_list)     # [1, 2, 3, 4]
+
+
+
